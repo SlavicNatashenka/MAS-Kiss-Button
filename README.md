@@ -8,3 +8,5 @@ FEATURES: (☝ ՞ਊ ՞)☝
 - Each consecutive kiss gets longer (starts at 0.5s, increases by 0.5s each time) and maxes out at 3.0 seconds
 - Resets if you wait more than 2 minutes between kisses
 - When Monika says certain lines, she'll automatically initiate another kiss after a pause
+
+REDISTRIBUTION, REPOSTING, MODIFICATION, MONETIZATION, OR DONATION-LINKED RE-USE OF THIS IS STRICTLY PROHIBITED WITHOUT PERMISSION. THANK YOU.
