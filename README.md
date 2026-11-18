@@ -9,4 +9,4 @@ FEATURES: (☝ ՞ਊ ՞)☝
 - Resets if you wait more than 2 minutes between kisses
 - When Monika says certain lines, she'll automatically initiate another kiss after a pause
 
-REDISTRIBUTION, REPOSTING, MODIFICATION, MONETIZATION, OR DONATION-LINKED RE-USE OF THIS IS STRICTLY PROHIBITED WITHOUT PERMISSION. THANK YOU.
+Redistribution, reposting, modification, monetization, or donation-linked re-use of this is strictly prohibited without permission. Thank you!( ˶˘ ³˘)♡
